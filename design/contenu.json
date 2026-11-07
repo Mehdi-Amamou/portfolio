@@ -1,0 +1,769 @@
+{
+  "_note": "Textes et données de la maquette. messages.fr / messages.en → messages/fr.json et messages/en.json (next-intl). projets → src/content/projects.ts. Les valeurs entre crochets [ ] sont des emplacements à remplacer par du vrai contenu.",
+  "messages": {
+    "fr": {
+      "skip": "Aller au contenu",
+      "logoAria": "Mehdi Amamou, retour en haut",
+      "navAria": "Navigation principale",
+      "nav": [
+        "Services",
+        "Projets",
+        "Méthode",
+        "Parcours",
+        "Avis",
+        "Contact"
+      ],
+      "langAria": "Langue du site",
+      "quote": "Devis gratuit",
+      "menuOpen": "Ouvrir le menu",
+      "menuClose": "Fermer le menu",
+      "menuLabel": "Menu",
+      "cvAria": "Télécharger mon CV",
+      "cvTitle": "Mon CV en PDF",
+      "close": "Fermer",
+      "loading": "Chargement",
+      "swipe": "Glissez",
+      "hero": {
+        "role": "Développeur web freelance",
+        "status": "Ouvert aux projets",
+        "h1": "Je conçois des sites qui ramènent des clients",
+        "lead": [
+          "Je",
+          "conçois",
+          "des",
+          "sites",
+          "qui"
+        ],
+        "hl": [
+          "ramènent",
+          "des",
+          "clients"
+        ],
+        "sub": "Sites vitrines, catalogues avec devis et plateformes sur mesure, avec un back-office pour gérer votre contenu vous-même. Hébergement, mise en ligne et sécurité inclus.",
+        "cta1": "Voir mes projets",
+        "cta2": "Me contacter",
+        "chips": [
+          "Back-office inclus",
+          "Pensé pour le mobile",
+          "Hébergement inclus",
+          "FR · EN · AR"
+        ],
+        "toast": "Nouvelle demande de devis",
+        "toastTime": "à l’instant",
+        "secure": "Connexion sécurisée",
+        "published": "Produit publié",
+        "url": "votre-site.tn",
+        "scroll": "Défiler"
+      },
+      "services": {
+        "eyebrow": "02 — Services",
+        "title": "Un site complet, de la maquette à la mise en ligne.",
+        "intro": "Je m’occupe de tout : design, développement, back-office et hébergement. Vous gardez la main sur votre contenu.",
+        "ideal": "Idéal pour",
+        "artQuote": "Devis",
+        "artDomain": "Domaine",
+        "s1": {
+          "title": "Site vitrine",
+          "desc": "Présentez votre activité avec un site rapide, clair et à votre image, que vous mettez à jour vous-même.",
+          "for": "Commerçants, artisans, artistes, associations",
+          "items": [
+            "Pages sur mesure",
+            "Back-office simple",
+            "Formulaire de contact"
+          ]
+        },
+        "s2": {
+          "title": "Catalogue & devis",
+          "desc": "Vos produits en ligne, classés et filtrables, avec une demande de devis guidée qui arrive directement chez vous.",
+          "for": "Revendeurs, installateurs, fabricants",
+          "items": [
+            "Catalogue filtrable",
+            "Devis en plusieurs étapes",
+            "Gestion des produits"
+          ]
+        },
+        "s3": {
+          "title": "Plateforme sur mesure",
+          "desc": "Espaces membres, inscriptions, classements, tableaux de bord : une application web pensée pour votre usage.",
+          "for": "Clubs, écoles, associations, start-up",
+          "items": [
+            "Comptes et rôles",
+            "Inscriptions en ligne",
+            "Tableau de bord"
+          ]
+        },
+        "s4": {
+          "title": "Sécurité & hébergement",
+          "desc": "Nom de domaine, hébergement, HTTPS et mise en ligne : je gère la partie technique, avec l’œil d’un étudiant en cybersécurité.",
+          "for": "Inclus dans chaque projet",
+          "items": [
+            "Hébergement et mise en ligne",
+            "Nom de domaine et HTTPS",
+            "Bonnes pratiques de sécurité"
+          ]
+        }
+      },
+      "projects": {
+        "eyebrow": "03 — Projets",
+        "title": "Des projets réels, livrés avec leur back-office.",
+        "intro": "Chaque site est pensé pour que son propriétaire le mette à jour lui-même, sans m’appeler pour changer une photo.",
+        "filterAria": "Filtrer les projets",
+        "filters": {
+          "all": "Tous",
+          "vitrine": "Sites vitrines",
+          "catalogue": "Catalogue & devis",
+          "plateforme": "Plateformes"
+        },
+        "role": "Rôle",
+        "result": "Résultat",
+        "view": "Voir le projet",
+        "cursor": "Voir",
+        "prev": "Projet précédent",
+        "next": "Projet suivant",
+        "shot": "[capture à fournir]",
+        "shotSm": "[capture]"
+      },
+      "method": {
+        "eyebrow": "04 — Méthode",
+        "title": "Cinq étapes claires, sans surprise.",
+        "intro": "Vous savez toujours où en est votre projet et ce que vous recevez à chaque étape.",
+        "get": "Vous recevez :",
+        "s1": {
+          "t": "Brief",
+          "d": "On échange sur votre activité, vos objectifs et vos contenus. Je vous envoie un devis clair.",
+          "g": "un devis détaillé"
+        },
+        "s2": {
+          "t": "Maquette",
+          "d": "Je dessine vos pages sur ordinateur et sur téléphone. Vous validez avant la première ligne de code.",
+          "g": "la maquette à valider"
+        },
+        "s3": {
+          "t": "Développement",
+          "d": "Je développe le site et son back-office, que vous testez sur un lien de prévisualisation.",
+          "g": "un lien de test"
+        },
+        "s4": {
+          "t": "Mise en ligne",
+          "d": "Nom de domaine, hébergement, HTTPS : je publie le site et je vous montre comment le gérer.",
+          "g": "votre site en ligne"
+        },
+        "s5": {
+          "t": "Suivi",
+          "d": "Je reste disponible pour les corrections, les évolutions et les mises à jour.",
+          "g": "un interlocuteur qui répond"
+        }
+      },
+      "about": {
+        "eyebrow": "05 — Parcours",
+        "title": "Futur ingénieur en cybersécurité, développeur web au quotidien.",
+        "intro": "La sécurité n’est pas une option ajoutée à la fin : je l’intègre dès la conception de chaque site.",
+        "i1": {
+          "meta": "En cours · 4e année",
+          "role": "Cycle ingénieur en génie informatique, spécialité cybersécurité."
+        },
+        "i2": {
+          "role": "Président du club de cybersécurité : workshops, CTF et plateforme du club."
+        },
+        "i3": {
+          "meta": "Forum international",
+          "role": "Webmaster du site WordPress et chef de l’équipe étudiante du Forum 2026."
+        },
+        "cvTitle": "Télécharger mon CV",
+        "termCaption": "Compétences de Mehdi présentées sous forme de terminal",
+        "whoami": "Mehdi Amamou — étudiant ingénieur en cybersécurité et développeur web freelance",
+        "catCmd": "cat competences.txt",
+        "langCmd": "langues --liste",
+        "skills": [
+          {
+            "k": "front",
+            "v": "Next.js · React · Tailwind CSS · HTML / CSS / JS"
+          },
+          {
+            "k": "back",
+            "v": "Symfony · Node.js · Express"
+          },
+          {
+            "k": "back-office",
+            "v": "EasyAdmin · AdminJS · WordPress"
+          },
+          {
+            "k": "données",
+            "v": "MariaDB · Prisma · SQL"
+          },
+          {
+            "k": "déploiement",
+            "v": "VPS Linux · Vercel · Git / GitHub"
+          },
+          {
+            "k": "sécurité",
+            "v": "Sécurité web · CTF · Linux"
+          }
+        ],
+        "langsOut": "Français · English · العربية"
+      },
+      "testi": {
+        "eyebrow": "06 — Témoignages",
+        "title": "Ce qu’en disent mes clients.",
+        "intro": "Uniquement des avis réels, publiés avec l’accord de chaque client.",
+        "tag": "Avis"
+      },
+      "contact": {
+        "eyebrow": "07 — Contact",
+        "title": "Parlons de votre site.",
+        "sub": "Décrivez votre projet en quelques lignes : je vous réponds sous 24 h.",
+        "badge": "Réponse sous 24 h",
+        "emailLbl": "E-mail",
+        "langs": "Je réponds en français, en anglais et en arabe.",
+        "formTitle": "Votre demande",
+        "formSub": "Quelques informations pour préparer votre devis.",
+        "name": "Nom",
+        "namePh": "Votre nom",
+        "email": "E-mail",
+        "emailPh": "vous@exemple.com",
+        "project": "Votre projet",
+        "projectPh": "Ex. : un site vitrine pour ma boutique, avec un catalogue de produits…",
+        "budget": "Budget indicatif",
+        "budgets": [
+          "[Moins de X DT]",
+          "[X – Y DT]",
+          "[Plus de Y DT]",
+          "Je ne sais pas encore"
+        ],
+        "submit": "Envoyer ma demande",
+        "privacy": "Vos informations servent uniquement à vous répondre.",
+        "errName": "Indiquez votre nom.",
+        "errEmail": "Cette adresse e-mail semble incomplète.",
+        "errProject": "Décrivez votre projet en une ou deux phrases.",
+        "errOne": " champ à corriger",
+        "errMany": " champs à corriger",
+        "sentTitle": "Message envoyé !",
+        "sentA": "Merci ",
+        "sentB": ", je vous réponds sous 24 h à ",
+        "recap": "Votre demande",
+        "sentWa": "Écrire sur WhatsApp",
+        "sentNew": "Nouveau message"
+      },
+      "footer": {
+        "tagline": "Développeur web freelance. Sites vitrines, catalogues et plateformes sur mesure, livrés avec leur back-office.",
+        "nav": "Navigation",
+        "contact": "Contact",
+        "lang": "Langue",
+        "made": "Développeur web freelance · Tunisie",
+        "top": "Retour en haut"
+      },
+      "modal": {
+        "need": "Le besoin",
+        "did": "Ce que j’ai fait",
+        "result": "Résultat",
+        "client": "Client",
+        "role": "Rôle",
+        "year": "Année",
+        "yearVal": "[à préciser]",
+        "link": "Lien",
+        "linkVal": "[à fournir]",
+        "ba": "Avant / après",
+        "baHint": "Faites glisser pour comparer",
+        "before": "Avant",
+        "after": "Après",
+        "beforePh": "[capture « avant » à fournir]",
+        "afterPh": "[capture « après » à fournir]",
+        "close": "Fermer",
+        "prev": "Précédent",
+        "next": "Projet suivant"
+      }
+    },
+    "en": {
+      "skip": "Skip to content",
+      "logoAria": "Mehdi Amamou, back to top",
+      "navAria": "Main navigation",
+      "nav": [
+        "Services",
+        "Work",
+        "Process",
+        "About",
+        "Reviews",
+        "Contact"
+      ],
+      "langAria": "Site language",
+      "quote": "Free quote",
+      "menuOpen": "Open menu",
+      "menuClose": "Close menu",
+      "menuLabel": "Menu",
+      "cvAria": "Download my résumé",
+      "cvTitle": "My résumé (PDF)",
+      "close": "Close",
+      "loading": "Loading",
+      "swipe": "Swipe",
+      "hero": {
+        "role": "Freelance web developer",
+        "status": "Open for projects",
+        "h1": "I build websites that bring in clients",
+        "lead": [
+          "I",
+          "build",
+          "websites",
+          "that"
+        ],
+        "hl": [
+          "bring",
+          "in",
+          "clients"
+        ],
+        "sub": "Showcase sites, catalogs with quote requests and custom platforms, with an admin panel so you can manage your content yourself. Hosting, launch and security included.",
+        "cta1": "See my work",
+        "cta2": "Get in touch",
+        "chips": [
+          "Admin panel included",
+          "Built for mobile",
+          "Hosting included",
+          "FR · EN · AR"
+        ],
+        "toast": "New quote request",
+        "toastTime": "just now",
+        "secure": "Secure connection",
+        "published": "Product published",
+        "url": "your-site.com",
+        "scroll": "Scroll"
+      },
+      "services": {
+        "eyebrow": "02 — Services",
+        "title": "A complete website, from mockup to launch.",
+        "intro": "I handle everything: design, development, admin panel and hosting. You stay in control of your content.",
+        "ideal": "Ideal for",
+        "artQuote": "Quote",
+        "artDomain": "Domain",
+        "s1": {
+          "title": "Showcase website",
+          "desc": "Present your business with a fast, clear website that looks like you, and update it yourself.",
+          "for": "Shops, craftspeople, artists, non-profits",
+          "items": [
+            "Custom pages",
+            "Simple admin panel",
+            "Contact form"
+          ]
+        },
+        "s2": {
+          "title": "Catalog & quotes",
+          "desc": "Your products online, organized and filterable, with a guided quote request that lands straight in your inbox.",
+          "for": "Resellers, installers, manufacturers",
+          "items": [
+            "Filterable catalog",
+            "Multi-step quote form",
+            "Product management"
+          ]
+        },
+        "s3": {
+          "title": "Custom platform",
+          "desc": "Member areas, sign-ups, rankings, dashboards: a web app built around the way you work.",
+          "for": "Clubs, schools, non-profits, startups",
+          "items": [
+            "Accounts and roles",
+            "Online sign-ups",
+            "Dashboard"
+          ]
+        },
+        "s4": {
+          "title": "Security & hosting",
+          "desc": "Domain name, hosting, HTTPS and launch: I take care of the technical side, with a cybersecurity student’s eye.",
+          "for": "Included in every project",
+          "items": [
+            "Hosting and launch",
+            "Domain name and HTTPS",
+            "Security best practices"
+          ]
+        }
+      },
+      "projects": {
+        "eyebrow": "03 — Work",
+        "title": "Real projects, delivered with their own admin panel.",
+        "intro": "Every site is built so its owner can update it on their own, without calling me to change a photo.",
+        "filterAria": "Filter projects",
+        "filters": {
+          "all": "All",
+          "vitrine": "Showcase sites",
+          "catalogue": "Catalog & quotes",
+          "plateforme": "Platforms"
+        },
+        "role": "Role",
+        "result": "Result",
+        "view": "View project",
+        "cursor": "View",
+        "prev": "Previous project",
+        "next": "Next project",
+        "shot": "[capture à fournir]",
+        "shotSm": "[capture]"
+      },
+      "method": {
+        "eyebrow": "04 — Process",
+        "title": "Five clear steps, no surprises.",
+        "intro": "You always know where your project stands and what you get at each step.",
+        "get": "You get:",
+        "s1": {
+          "t": "Brief",
+          "d": "We talk about your business, goals and content. I send you a clear quote.",
+          "g": "a detailed quote"
+        },
+        "s2": {
+          "t": "Mockup",
+          "d": "I design your pages for desktop and mobile. You approve them before any code is written.",
+          "g": "a mockup to approve"
+        },
+        "s3": {
+          "t": "Development",
+          "d": "I build the site and its admin panel, which you test on a preview link.",
+          "g": "a test link"
+        },
+        "s4": {
+          "t": "Launch",
+          "d": "Domain, hosting, HTTPS: I publish the site and show you how to manage it.",
+          "g": "your live website"
+        },
+        "s5": {
+          "t": "Follow-up",
+          "d": "I stay available for fixes, new features and updates.",
+          "g": "someone who answers"
+        }
+      },
+      "about": {
+        "eyebrow": "05 — About",
+        "title": "Future cybersecurity engineer, web developer every day.",
+        "intro": "Security isn’t an add-on at the end: I build it into every site from the first mockup.",
+        "i1": {
+          "meta": "Ongoing · 4th year",
+          "role": "Computer engineering degree, cybersecurity track."
+        },
+        "i2": {
+          "role": "President of the cybersecurity club: workshops, CTFs and the club platform."
+        },
+        "i3": {
+          "meta": "International forum",
+          "role": "Webmaster of the WordPress site and student team lead for the 2026 Forum."
+        },
+        "cvTitle": "Download my résumé",
+        "termCaption": "Mehdi’s skills shown as a terminal",
+        "whoami": "Mehdi Amamou — cybersecurity engineering student and freelance web developer",
+        "catCmd": "cat skills.txt",
+        "langCmd": "languages --list",
+        "skills": [
+          {
+            "k": "front",
+            "v": "Next.js · React · Tailwind CSS · HTML / CSS / JS"
+          },
+          {
+            "k": "back",
+            "v": "Symfony · Node.js · Express"
+          },
+          {
+            "k": "admin",
+            "v": "EasyAdmin · AdminJS · WordPress"
+          },
+          {
+            "k": "data",
+            "v": "MariaDB · Prisma · SQL"
+          },
+          {
+            "k": "deploy",
+            "v": "Linux VPS · Vercel · Git / GitHub"
+          },
+          {
+            "k": "security",
+            "v": "Web security · CTF · Linux"
+          }
+        ],
+        "langsOut": "Français · English · العربية"
+      },
+      "testi": {
+        "eyebrow": "06 — Testimonials",
+        "title": "What clients say.",
+        "intro": "Real reviews only, published with each client’s consent.",
+        "tag": "Review"
+      },
+      "contact": {
+        "eyebrow": "07 — Contact",
+        "title": "Let’s talk about your website.",
+        "sub": "Tell me about your project in a few lines: I’ll reply within 24 hours.",
+        "badge": "Reply within 24 h",
+        "emailLbl": "Email",
+        "langs": "I reply in French, English and Arabic.",
+        "formTitle": "Your request",
+        "formSub": "A few details to prepare your quote.",
+        "name": "Name",
+        "namePh": "Your name",
+        "email": "Email",
+        "emailPh": "you@example.com",
+        "project": "Your project",
+        "projectPh": "E.g. a showcase site for my shop, with a product catalog…",
+        "budget": "Estimated budget",
+        "budgets": [
+          "[Moins de X DT]",
+          "[X – Y DT]",
+          "[Plus de Y DT]",
+          "Not sure yet"
+        ],
+        "submit": "Send my request",
+        "privacy": "Your details are only used to reply to you.",
+        "errName": "Please enter your name.",
+        "errEmail": "This email address looks incomplete.",
+        "errProject": "Describe your project in a sentence or two.",
+        "errOne": " field to fix",
+        "errMany": " fields to fix",
+        "sentTitle": "Message sent!",
+        "sentA": "Thanks ",
+        "sentB": ", I’ll reply within 24 hours at ",
+        "recap": "Your request",
+        "sentWa": "Message on WhatsApp",
+        "sentNew": "New message"
+      },
+      "footer": {
+        "tagline": "Freelance web developer. Showcase sites, catalogs and custom platforms, delivered with their own admin panel.",
+        "nav": "Navigation",
+        "contact": "Contact",
+        "lang": "Language",
+        "made": "Freelance web developer · Tunisia",
+        "top": "Back to top"
+      },
+      "modal": {
+        "need": "The need",
+        "did": "What I did",
+        "result": "Result",
+        "client": "Client",
+        "role": "Role",
+        "year": "Year",
+        "yearVal": "[à préciser]",
+        "link": "Link",
+        "linkVal": "[à fournir]",
+        "ba": "Before / after",
+        "baHint": "Drag to compare",
+        "before": "Before",
+        "after": "After",
+        "beforePh": "[capture « avant » à fournir]",
+        "afterPh": "[capture « après » à fournir]",
+        "close": "Close",
+        "prev": "Previous",
+        "next": "Next project"
+      }
+    }
+  },
+  "projets": [
+    {
+      "id": "lanergy",
+      "name": "Lanergy",
+      "featured": true,
+      "placeholder": false,
+      "tint": "tint-sun",
+      "stack": [
+        "Symfony",
+        "EasyAdmin",
+        "MariaDB"
+      ],
+      "categories": [
+        "vitrine",
+        "catalogue"
+      ],
+      "fr": {
+        "type": "Site vitrine · Catalogue & devis",
+        "client": "Installateur de panneaux solaires",
+        "desc": "Site vitrine et catalogue de panneaux solaires, onduleurs et batteries, avec une demande de devis en 3 étapes.",
+        "role": "Maquette, développement, mise en ligne",
+        "result": "Lighthouse 99–100",
+        "need": "Lanergy vend et installe des panneaux solaires, des onduleurs et des batteries. La cliente voulait présenter ses produits et recevoir des demandes de devis, en gérant son catalogue elle-même.",
+        "did": "Maquette, catalogue filtrable, devis en 3 étapes, back-office EasyAdmin pour gérer les produits, déploiement sur un VPS."
+      },
+      "en": {
+        "type": "Showcase site · Catalog & quotes",
+        "client": "Solar panel installer",
+        "desc": "Showcase site and catalog of solar panels, inverters and batteries, with a 3-step quote request.",
+        "role": "Design, development, launch",
+        "result": "Lighthouse 99–100",
+        "need": "Lanergy sells and installs solar panels, inverters and batteries. The client wanted to showcase her products and receive quote requests, while managing the catalog herself.",
+        "did": "Mockup, filterable catalog, 3-step quote form, EasyAdmin back office to manage products, deployment on a VPS."
+      }
+    },
+    {
+      "id": "etadames",
+      "name": "Etadames Art",
+      "featured": false,
+      "placeholder": false,
+      "tint": "tint-art",
+      "stack": [
+        "Next.js",
+        "Prisma",
+        "MariaDB"
+      ],
+      "categories": [
+        "vitrine"
+      ],
+      "fr": {
+        "type": "Galerie d’artiste",
+        "client": "Artiste peintre",
+        "desc": "Galerie en ligne d’un peintre, avec un espace d’administration pour publier les œuvres et une protection des images.",
+        "role": "Maquette, développement, back-office",
+        "result": "[Résultat à compléter]",
+        "need": "Montrer les œuvres d’un peintre dans une galerie élégante, consultée surtout sur téléphone, en limitant le téléchargement des images.",
+        "did": "Galerie responsive, pages œuvres, admin d’upload, protection des images, base MariaDB avec Prisma."
+      },
+      "en": {
+        "type": "Artist gallery",
+        "client": "Painter",
+        "desc": "Online gallery for a painter, with an admin area to publish artworks and image protection.",
+        "role": "Design, development, admin panel",
+        "result": "[Résultat à compléter]",
+        "need": "Show a painter’s work in an elegant gallery, mostly viewed on phones, while limiting image downloads.",
+        "did": "Responsive gallery, artwork pages, upload admin, image protection, MariaDB database with Prisma."
+      }
+    },
+    {
+      "id": "securinets",
+      "name": "Plateforme Securinets EPS",
+      "featured": false,
+      "placeholder": false,
+      "tint": "tint-cyber",
+      "stack": [
+        "Next.js",
+        "Vercel"
+      ],
+      "categories": [
+        "plateforme"
+      ],
+      "fr": {
+        "type": "Plateforme",
+        "client": "Club de cybersécurité · École Polytechnique de Sousse",
+        "desc": "Challenges hebdomadaires, inscriptions aux CTF et classements pour les membres du club.",
+        "role": "Conception et développement",
+        "result": "En ligne · [X] membres inscrits",
+        "need": "Donner aux membres du club un espace pour s’entraîner chaque semaine, s’inscrire aux workshops et aux CTF, et suivre les classements.",
+        "did": "Comptes membres, challenges hebdomadaires, inscriptions, classements et résultats, déploiement sur Vercel."
+      },
+      "en": {
+        "type": "Platform",
+        "client": "Cybersecurity club · École Polytechnique de Sousse",
+        "desc": "Weekly challenges, CTF registrations and leaderboards for club members.",
+        "role": "Design and development",
+        "result": "Live · [X] registered members",
+        "need": "Give club members a place to practice every week, sign up for workshops and CTFs, and follow the rankings.",
+        "did": "Member accounts, weekly challenges, registrations, rankings and results, deployed on Vercel."
+      }
+    },
+    {
+      "id": "fte",
+      "name": "Forum FTE / FCIERI",
+      "featured": false,
+      "placeholder": false,
+      "tint": "tint-forum",
+      "stack": [
+        "WordPress"
+      ],
+      "categories": [
+        "vitrine"
+      ],
+      "fr": {
+        "type": "Site WordPress",
+        "client": "Forum Tunisien pour l’Éducation",
+        "desc": "Site du Forum Tunisien pour l’Éducation et du forum international FCIERI : programme, actualités et contenus.",
+        "role": "Webmaster",
+        "result": "[Résultat à compléter]",
+        "need": "Tenir à jour le site d’un forum international : programme, actualités et pages des événements.",
+        "did": "Gestion du site WordPress, mises à jour des contenus et des pages."
+      },
+      "en": {
+        "type": "WordPress site",
+        "client": "Tunisian Forum for Education",
+        "desc": "Website of the Tunisian Forum for Education and the FCIERI international forum: program, news and content.",
+        "role": "Webmaster",
+        "result": "[Résultat à compléter]",
+        "need": "Keep an international forum’s website up to date: program, news and event pages.",
+        "did": "WordPress site management, content and page updates."
+      }
+    },
+    {
+      "id": "p5",
+      "name": "[Projet 5 : emplacement]",
+      "featured": false,
+      "placeholder": true,
+      "tint": "tint-ph",
+      "stack": [
+        "[Stack]"
+      ],
+      "categories": [],
+      "fr": {
+        "type": "[Type]",
+        "client": "[Client]",
+        "desc": "[Description du projet à fournir]",
+        "role": "[Rôle]",
+        "result": "[Résultat]",
+        "need": "[Le besoin du client]",
+        "did": "[Ce qui a été réalisé]"
+      },
+      "en": {
+        "type": "[Type]",
+        "client": "[Client]",
+        "desc": "[Description du projet à fournir]",
+        "role": "[Rôle]",
+        "result": "[Résultat]",
+        "need": "[Le besoin du client]",
+        "did": "[Ce qui a été réalisé]"
+      }
+    }
+  ],
+  "nav": [
+    {
+      "href": "#services",
+      "num": "02",
+      "label": {
+        "fr": "Services",
+        "en": "Services"
+      }
+    },
+    {
+      "href": "#projets",
+      "num": "03",
+      "label": {
+        "fr": "Projets",
+        "en": "Work"
+      }
+    },
+    {
+      "href": "#methode",
+      "num": "04",
+      "label": {
+        "fr": "Méthode",
+        "en": "Process"
+      }
+    },
+    {
+      "href": "#parcours",
+      "num": "05",
+      "label": {
+        "fr": "Parcours",
+        "en": "About"
+      }
+    },
+    {
+      "href": "#temoignages",
+      "num": "06",
+      "label": {
+        "fr": "Avis",
+        "en": "Reviews"
+      }
+    },
+    {
+      "href": "#contact",
+      "num": "07",
+      "label": {
+        "fr": "Contact",
+        "en": "Contact"
+      }
+    }
+  ],
+  "liens": {
+    "whatsapp": "https://wa.me/21652250949",
+    "email": "mehdi.amamou4@gmail.com",
+    "telephone": "+216 52 250 949",
+    "linkedin": "https://linkedin.com/in/mehdi-amamou",
+    "github": "[à fournir]",
+    "cvFr": "/cv/cv-fr.pdf",
+    "cvEn": "/cv/cv-en.pdf"
+  },
+  "temoignages": []
+}

@@ -1,0 +1,27 @@
+export type ContactLabels = {
+  formTitle: string;
+  formSub: string;
+  name: string;
+  namePh: string;
+  email: string;
+  emailPh: string;
+  project: string;
+  projectPh: string;
+  budget: string;
+  budgets: string[];
+  submit: string;
+  privacy: string;
+  errName: string;
+  errEmail: string;
+  errProject: string;
+  errOne: string;
+  errMany: string;
+  sentTitle: string;
+  sentA: string;
+  sentB: string;
+  recap: string;
+  sentWa: string;
+  sentNew: string;
+  whatsapp: string;
+  newTab: string;
+};

@@ -1,0 +1,292 @@
+{
+  "skip": "Aller au contenu",
+  "logoAria": "Mehdi Amamou, retour en haut",
+  "navAria": "Navigation principale",
+  "nav": [
+    "Services",
+    "Projets",
+    "Méthode",
+    "Parcours",
+    "Avis",
+    "Contact"
+  ],
+  "langAria": "Langue du site",
+  "quote": "Devis gratuit",
+  "menuOpen": "Ouvrir le menu",
+  "menuClose": "Fermer le menu",
+  "menuLabel": "Menu",
+  "cvAria": "Télécharger mon CV",
+  "cvTitle": "Mon CV en PDF",
+  "close": "Fermer",
+  "loading": "Chargement",
+  "swipe": "Glissez",
+  "hero": {
+    "role": "Développeur web freelance",
+    "status": "Ouvert aux projets",
+    "h1": "Je conçois des sites qui ramènent des clients",
+    "lead": [
+      "Je",
+      "conçois",
+      "des",
+      "sites",
+      "qui"
+    ],
+    "hl": [
+      "ramènent",
+      "des",
+      "clients"
+    ],
+    "sub": "Sites vitrines, catalogues avec devis et plateformes sur mesure, avec un back-office pour gérer votre contenu vous-même. Hébergement, mise en ligne et sécurité inclus.",
+    "cta1": "Voir mes projets",
+    "cta2": "Me contacter",
+    "chips": [
+      "Back-office inclus",
+      "Pensé pour le mobile",
+      "Hébergement inclus",
+      "FR · EN · AR"
+    ],
+    "toast": "Nouvelle demande de devis",
+    "toastTime": "à l’instant",
+    "secure": "Connexion sécurisée",
+    "published": "Produit publié",
+    "url": "votre-site.tn",
+    "scroll": "Défiler",
+    "photoAlt": "Mehdi Amamou, développeur web freelance"
+  },
+  "services": {
+    "eyebrow": "02 — Services",
+    "title": "Un site complet, de la maquette à la mise en ligne.",
+    "intro": "Je m’occupe de tout : design, développement, back-office et hébergement. Vous gardez la main sur votre contenu.",
+    "ideal": "Idéal pour",
+    "artQuote": "Devis",
+    "artDomain": "Domaine",
+    "s1": {
+      "title": "Site vitrine",
+      "desc": "Présentez votre activité avec un site rapide, clair et à votre image, que vous mettez à jour vous-même.",
+      "for": "Commerçants, artisans, artistes, associations",
+      "items": [
+        "Pages sur mesure",
+        "Back-office simple",
+        "Formulaire de contact"
+      ]
+    },
+    "s2": {
+      "title": "Catalogue & devis",
+      "desc": "Vos produits en ligne, classés et filtrables, avec une demande de devis guidée qui arrive directement chez vous.",
+      "for": "Revendeurs, installateurs, fabricants",
+      "items": [
+        "Catalogue filtrable",
+        "Devis en plusieurs étapes",
+        "Gestion des produits"
+      ]
+    },
+    "s3": {
+      "title": "Plateforme sur mesure",
+      "desc": "Espaces membres, inscriptions, classements, tableaux de bord : une application web pensée pour votre usage.",
+      "for": "Clubs, écoles, associations, start-up",
+      "items": [
+        "Comptes et rôles",
+        "Inscriptions en ligne",
+        "Tableau de bord"
+      ]
+    },
+    "s4": {
+      "title": "Sécurité & hébergement",
+      "desc": "Nom de domaine, hébergement, HTTPS et mise en ligne : je gère la partie technique, avec l’œil d’un étudiant en cybersécurité.",
+      "for": "Inclus dans chaque projet",
+      "items": [
+        "Hébergement et mise en ligne",
+        "Nom de domaine et HTTPS",
+        "Bonnes pratiques de sécurité"
+      ]
+    }
+  },
+  "projects": {
+    "eyebrow": "03 — Projets",
+    "title": "Des projets réels, livrés avec leur back-office.",
+    "intro": "Chaque site est pensé pour que son propriétaire le mette à jour lui-même, sans m’appeler pour changer une photo.",
+    "filterAria": "Filtrer les projets",
+    "filters": {
+      "all": "Tous",
+      "vitrine": "Sites vitrines",
+      "catalogue": "Catalogue & devis",
+      "plateforme": "Plateformes"
+    },
+    "role": "Rôle",
+    "result": "Résultat",
+    "view": "Voir le projet",
+    "cursor": "Voir",
+    "prev": "Projet précédent",
+    "next": "Projet suivant",
+    "shot": "[capture à fournir]",
+    "shotSm": "[capture]",
+    "visit": "Voir le site",
+    "soon": "Bientôt en ligne"
+  },
+  "method": {
+    "eyebrow": "04 — Méthode",
+    "title": "Cinq étapes claires, sans surprise.",
+    "intro": "Vous savez toujours où en est votre projet et ce que vous recevez à chaque étape.",
+    "get": "Vous recevez :",
+    "s1": {
+      "t": "Brief",
+      "d": "On échange sur votre activité, vos objectifs et vos contenus. Je vous envoie un devis clair.",
+      "g": "un devis détaillé"
+    },
+    "s2": {
+      "t": "Maquette",
+      "d": "Je dessine vos pages sur ordinateur et sur téléphone. Vous validez avant la première ligne de code.",
+      "g": "la maquette à valider"
+    },
+    "s3": {
+      "t": "Développement",
+      "d": "Je développe le site et son back-office, que vous testez sur un lien de prévisualisation.",
+      "g": "un lien de test"
+    },
+    "s4": {
+      "t": "Mise en ligne",
+      "d": "Nom de domaine, hébergement, HTTPS : je publie le site et je vous montre comment le gérer.",
+      "g": "votre site en ligne"
+    },
+    "s5": {
+      "t": "Suivi",
+      "d": "Je reste disponible pour les corrections, les évolutions et les mises à jour.",
+      "g": "un interlocuteur qui répond"
+    }
+  },
+  "about": {
+    "eyebrow": "05 — Parcours",
+    "title": "Futur ingénieur en cybersécurité, développeur web au quotidien.",
+    "intro": "La sécurité n’est pas une option ajoutée à la fin : je l’intègre dès la conception de chaque site.",
+    "i1": {
+      "meta": "En cours · 4e année",
+      "role": "Cycle ingénieur en génie informatique, spécialité cybersécurité."
+    },
+    "i2": {
+      "role": "Président du club de cybersécurité : workshops, CTF et plateforme du club."
+    },
+    "i3": {
+      "meta": "Forum international",
+      "role": "Webmaster du site WordPress et chef de l’équipe étudiante du Forum 2026."
+    },
+    "cvTitle": "Télécharger mon CV",
+    "termCaption": "Compétences de Mehdi présentées sous forme de terminal",
+    "whoami": "Mehdi Amamou — étudiant ingénieur en cybersécurité et développeur web freelance",
+    "catCmd": "cat competences.txt",
+    "langCmd": "langues --liste",
+    "skills": [
+      {
+        "k": "front",
+        "v": "Next.js · React · Tailwind CSS · HTML / CSS / JS"
+      },
+      {
+        "k": "back",
+        "v": "Symfony · Node.js · Express"
+      },
+      {
+        "k": "back-office",
+        "v": "EasyAdmin · AdminJS · WordPress"
+      },
+      {
+        "k": "données",
+        "v": "MariaDB · Prisma · SQL"
+      },
+      {
+        "k": "déploiement",
+        "v": "VPS Linux · Vercel · Git / GitHub"
+      },
+      {
+        "k": "sécurité",
+        "v": "Sécurité web · CTF · Linux"
+      }
+    ],
+    "langsOut": "Français · English · العربية",
+    "termReplay": "Rejouer l’animation du terminal"
+  },
+  "testi": {
+    "eyebrow": "06 — Témoignages",
+    "title": "Ce qu’en disent mes clients.",
+    "intro": "Uniquement des avis réels, publiés avec l’accord de chaque client.",
+    "tag": "Avis"
+  },
+  "contact": {
+    "eyebrow": "07 — Contact",
+    "title": "Parlons de votre site.",
+    "sub": "Décrivez votre projet en quelques lignes : je vous réponds sous 24 h.",
+    "badge": "Réponse sous 24 h",
+    "emailLbl": "E-mail",
+    "langs": "Je réponds en français, en anglais et en arabe.",
+    "formTitle": "Votre demande",
+    "formSub": "Quelques informations pour préparer votre devis.",
+    "name": "Nom",
+    "namePh": "Votre nom",
+    "email": "E-mail",
+    "emailPh": "vous@exemple.com",
+    "project": "Votre projet",
+    "projectPh": "Ex. : un site vitrine pour ma boutique, avec un catalogue de produits…",
+    "budget": "Budget indicatif",
+    "budgets": [
+      "[Moins de X DT]",
+      "[X – Y DT]",
+      "[Plus de Y DT]",
+      "Je ne sais pas encore"
+    ],
+    "submit": "Envoyer ma demande",
+    "privacy": "Vos informations servent uniquement à vous répondre.",
+    "errName": "Indiquez votre nom.",
+    "errEmail": "Cette adresse e-mail semble incomplète.",
+    "errProject": "Décrivez votre projet en une ou deux phrases.",
+    "errOne": " champ à corriger",
+    "errMany": " champs à corriger",
+    "sentTitle": "Message envoyé !",
+    "sentA": "Merci ",
+    "sentB": ", je vous réponds sous 24 h à ",
+    "recap": "Votre demande",
+    "sentWa": "Écrire sur WhatsApp",
+    "sentNew": "Nouveau message",
+    "errRate": "Trop d’envois en peu de temps. Réessayez dans quelques minutes ou écrivez-moi sur WhatsApp.",
+    "errSend": "L’envoi a échoué. Réessayez ou écrivez-moi sur WhatsApp."
+  },
+  "footer": {
+    "tagline": "Développeur web freelance. Sites vitrines, catalogues et plateformes sur mesure, livrés avec leur back-office.",
+    "nav": "Navigation",
+    "contact": "Contact",
+    "lang": "Langue",
+    "made": "Développeur web freelance · Tunisie",
+    "top": "Retour en haut"
+  },
+  "modal": {
+    "need": "Le besoin",
+    "did": "Ce que j’ai fait",
+    "result": "Résultat",
+    "client": "Client",
+    "role": "Rôle",
+    "year": "Année",
+    "yearVal": "[à préciser]",
+    "link": "Lien",
+    "close": "Fermer",
+    "prev": "Précédent",
+    "next": "Projet suivant",
+    "gallery": "Captures",
+    "galleryHint": "Touchez une capture pour l’agrandir",
+    "galleryEmpty": "[captures à fournir]",
+    "shotAlt": "{name}, capture {n} sur {total}",
+    "zoom": "Agrandir la capture",
+    "zoomClose": "Fermer l’agrandissement",
+    "shotPrev": "Capture précédente",
+    "shotNext": "Capture suivante",
+    "linkVal": "[à fournir]"
+  },
+  "meta": {
+    "title": "Mehdi Amamou · Développeur web freelance",
+    "description": "Sites vitrines, catalogues avec devis et plateformes sur mesure, avec back-office, hébergement et mise en ligne inclus. Développeur web freelance en Tunisie.",
+    "ogAlt": "Mehdi Amamou, développeur web freelance : je conçois des sites qui ramènent des clients.",
+    "jobTitle": "Développeur web freelance"
+  },
+  "notFound": {
+    "title": "Page introuvable.",
+    "back": "Retour à l’accueil"
+  },
+  "newTab": "nouvel onglet",
+  "whatsappText": "Bonjour Mehdi, je souhaite un devis pour un site web"
+}

@@ -1,0 +1,14 @@
+# Site temporaire, le temps d'obtenir le certificat. Remplacé ensuite par portfolio.conf.
+server {
+    listen 80;
+    listen [::]:80;
+    server_name DOMAINE www.DOMAINE;
+
+    location /.well-known/acme-challenge/ {
+        root /var/www/certbot;
+    }
+
+    location / {
+        return 404;
+    }
+}

@@ -1,0 +1,171 @@
+[
+  {
+    "id": "lanergy",
+    "name": "Lanergy",
+    "featured": true,
+    "placeholder": false,
+    "tint": "tint-sun",
+    "url": "https://lanergy.com.tn",
+    "live": false,
+    "stack": [
+      "Symfony",
+      "EasyAdmin",
+      "MariaDB"
+    ],
+    "categories": [
+      "vitrine",
+      "catalogue"
+    ],
+    "fr": {
+      "type": "Site vitrine · Catalogue & devis",
+      "client": "Installateur de panneaux solaires",
+      "desc": "Site vitrine et catalogue de panneaux solaires, onduleurs et batteries, avec une demande de devis en 3 étapes.",
+      "role": "Maquette, développement, mise en ligne",
+      "result": "Lighthouse 99–100",
+      "need": "Lanergy vend et installe des panneaux solaires, des onduleurs et des batteries. La cliente voulait présenter ses produits et recevoir des demandes de devis, en gérant son catalogue elle-même.",
+      "did": "Maquette, catalogue filtrable, devis en 3 étapes, back-office EasyAdmin pour gérer les produits, déploiement sur un VPS."
+    },
+    "en": {
+      "type": "Showcase site · Catalog & quotes",
+      "client": "Solar panel installer",
+      "desc": "Showcase site and catalog of solar panels, inverters and batteries, with a 3-step quote request.",
+      "role": "Design, development, launch",
+      "result": "Lighthouse 99–100",
+      "need": "Lanergy sells and installs solar panels, inverters and batteries. The client wanted to showcase her products and receive quote requests, while managing the catalog herself.",
+      "did": "Mockup, filterable catalog, 3-step quote form, EasyAdmin back office to manage products, deployment on a VPS."
+    }
+  },
+  {
+    "id": "etadames",
+    "name": "Etadames Art",
+    "featured": false,
+    "placeholder": false,
+    "tint": "tint-art",
+    "url": "https://etadames.com",
+    "live": false,
+    "stack": [
+      "Next.js",
+      "Prisma",
+      "MariaDB"
+    ],
+    "categories": [
+      "vitrine"
+    ],
+    "fr": {
+      "type": "Galerie d’artiste",
+      "client": "Artiste peintre",
+      "desc": "Galerie en ligne d’un peintre, avec un espace d’administration pour publier les œuvres et une protection des images.",
+      "role": "Maquette, développement, back-office",
+      "result": "[Résultat à compléter]",
+      "need": "Montrer les œuvres d’un peintre dans une galerie élégante, consultée surtout sur téléphone, en limitant le téléchargement des images.",
+      "did": "Galerie responsive, pages œuvres, admin d’upload, protection des images, base MariaDB avec Prisma."
+    },
+    "en": {
+      "type": "Artist gallery",
+      "client": "Painter",
+      "desc": "Online gallery for a painter, with an admin area to publish artworks and image protection.",
+      "role": "Design, development, admin panel",
+      "result": "[Résultat à compléter]",
+      "need": "Show a painter’s work in an elegant gallery, mostly viewed on phones, while limiting image downloads.",
+      "did": "Responsive gallery, artwork pages, upload admin, image protection, MariaDB database with Prisma."
+    }
+  },
+  {
+    "id": "securinets",
+    "name": "Plateforme Securinets EPS",
+    "featured": false,
+    "placeholder": false,
+    "tint": "tint-cyber",
+    "url": "https://securinets-eps.vercel.app",
+    "live": true,
+    "stack": [
+      "Next.js",
+      "Vercel"
+    ],
+    "categories": [
+      "plateforme"
+    ],
+    "fr": {
+      "type": "Plateforme",
+      "client": "Club de cybersécurité · École Polytechnique de Sousse",
+      "desc": "Challenges hebdomadaires, inscriptions aux CTF et classements pour les membres du club.",
+      "role": "Conception et développement",
+      "result": "En ligne · [X] membres inscrits",
+      "need": "Donner aux membres du club un espace pour s’entraîner chaque semaine, s’inscrire aux workshops et aux CTF, et suivre les classements.",
+      "did": "Comptes membres, challenges hebdomadaires, inscriptions, classements et résultats, déploiement sur Vercel."
+    },
+    "en": {
+      "type": "Platform",
+      "client": "Cybersecurity club · École Polytechnique de Sousse",
+      "desc": "Weekly challenges, CTF registrations and leaderboards for club members.",
+      "role": "Design and development",
+      "result": "Live · [X] registered members",
+      "need": "Give club members a place to practice every week, sign up for workshops and CTFs, and follow the rankings.",
+      "did": "Member accounts, weekly challenges, registrations, rankings and results, deployed on Vercel."
+    }
+  },
+  {
+    "id": "fte",
+    "name": "Forum FTE / FCIERI",
+    "featured": false,
+    "placeholder": false,
+    "tint": "tint-forum",
+    "url": "https://forumtunisieneducation.org",
+    "live": true,
+    "stack": [
+      "WordPress"
+    ],
+    "categories": [
+      "vitrine"
+    ],
+    "fr": {
+      "type": "Site WordPress",
+      "client": "Forum Tunisien pour l’Éducation",
+      "desc": "Site du Forum Tunisien pour l’Éducation et du forum international FCIERI : programme, actualités et contenus.",
+      "role": "Webmaster",
+      "result": "[Résultat à compléter]",
+      "need": "Tenir à jour le site d’un forum international : programme, actualités et pages des événements.",
+      "did": "Gestion du site WordPress, mises à jour des contenus et des pages."
+    },
+    "en": {
+      "type": "WordPress site",
+      "client": "Tunisian Forum for Education",
+      "desc": "Website of the Tunisian Forum for Education and the FCIERI international forum: program, news and content.",
+      "role": "Webmaster",
+      "result": "[Résultat à compléter]",
+      "need": "Keep an international forum’s website up to date: program, news and event pages.",
+      "did": "WordPress site management, content and page updates."
+    }
+  },
+  {
+    "id": "p5",
+    "name": "[Projet 5 : emplacement]",
+    "featured": false,
+    "placeholder": true,
+    "tint": "tint-ph",
+    "url": "",
+    "live": false,
+    "stack": [
+      "[Stack]"
+    ],
+    "categories": [],
+    "fr": {
+      "type": "[Type]",
+      "client": "[Client]",
+      "desc": "[Description du projet à fournir]",
+      "role": "[Rôle]",
+      "result": "[Résultat]",
+      "need": "[Le besoin du client]",
+      "did": "[Ce qui a été réalisé]"
+    },
+    "en": {
+      "type": "[Type]",
+      "client": "[Client]",
+      "desc": "[Description du projet à fournir]",
+      "role": "[Rôle]",
+      "result": "[Résultat]",
+      "need": "[Le besoin du client]",
+      "did": "[Ce qui a été réalisé]"
+    }
+  }
+]

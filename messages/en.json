@@ -1,0 +1,291 @@
+{
+  "skip": "Skip to content",
+  "logoAria": "Mehdi Amamou, back to top",
+  "navAria": "Main navigation",
+  "nav": [
+    "Services",
+    "Work",
+    "Process",
+    "About",
+    "Reviews",
+    "Contact"
+  ],
+  "langAria": "Site language",
+  "quote": "Free quote",
+  "menuOpen": "Open menu",
+  "menuClose": "Close menu",
+  "menuLabel": "Menu",
+  "cvAria": "Download my CV (résumé)",
+  "cvTitle": "My résumé (PDF)",
+  "close": "Close",
+  "loading": "Loading",
+  "swipe": "Swipe",
+  "hero": {
+    "role": "Freelance web developer",
+    "status": "Open for projects",
+    "h1": "I build websites that bring in clients",
+    "lead": [
+      "I",
+      "build",
+      "websites",
+      "that"
+    ],
+    "hl": [
+      "bring",
+      "in",
+      "clients"
+    ],
+    "sub": "Showcase sites, catalogs with quote requests and custom platforms, with an admin panel so you can manage your content yourself. Hosting, launch and security included.",
+    "cta1": "See my work",
+    "cta2": "Get in touch",
+    "chips": [
+      "Admin panel included",
+      "Built for mobile",
+      "Hosting included",
+      "FR · EN · AR"
+    ],
+    "toast": "New quote request",
+    "toastTime": "just now",
+    "secure": "Secure connection",
+    "published": "Product published",
+    "url": "your-site.com",
+    "scroll": "Scroll",
+    "photoAlt": "Mehdi Amamou, freelance web developer"
+  },
+  "services": {
+    "eyebrow": "02 — Services",
+    "title": "A complete website, from mockup to launch.",
+    "intro": "I handle everything: design, development, admin panel and hosting. You stay in control of your content.",
+    "ideal": "Ideal for",
+    "artQuote": "Quote",
+    "artDomain": "Domain",
+    "s1": {
+      "title": "Showcase website",
+      "desc": "Present your business with a fast, clear website that looks like you, and update it yourself.",
+      "for": "Shops, craftspeople, artists, non-profits",
+      "items": [
+        "Custom pages",
+        "Simple admin panel",
+        "Contact form"
+      ]
+    },
+    "s2": {
+      "title": "Catalog & quotes",
+      "desc": "Your products online, organized and filterable, with a guided quote request that lands straight in your inbox.",
+      "for": "Resellers, installers, manufacturers",
+      "items": [
+        "Filterable catalog",
+        "Multi-step quote form",
+        "Product management"
+      ]
+    },
+    "s3": {
+      "title": "Custom platform",
+      "desc": "Member areas, sign-ups, rankings, dashboards: a web app built around the way you work.",
+      "for": "Clubs, schools, non-profits, startups",
+      "items": [
+        "Accounts and roles",
+        "Online sign-ups",
+        "Dashboard"
+      ]
+    },
+    "s4": {
+      "title": "Security & hosting",
+      "desc": "Domain name, hosting, HTTPS and launch: I take care of the technical side, with a cybersecurity student’s eye.",
+      "for": "Included in every project",
+      "items": [
+        "Hosting and launch",
+        "Domain name and HTTPS",
+        "Security best practices"
+      ]
+    }
+  },
+  "projects": {
+    "eyebrow": "03 — Work",
+    "title": "Real projects, delivered with their own admin panel.",
+    "intro": "Every site is built so its owner can update it on their own, without calling me to change a photo.",
+    "filterAria": "Filter projects",
+    "filters": {
+      "all": "All",
+      "vitrine": "Showcase sites",
+      "catalogue": "Catalog & quotes",
+      "plateforme": "Platforms"
+    },
+    "role": "Role",
+    "result": "Result",
+    "view": "View project",
+    "cursor": "View",
+    "prev": "Previous project",
+    "next": "Next project",
+    "shot": "[capture à fournir]",
+    "shotSm": "[capture]",
+    "visit": "Visit website",
+    "soon": "Coming soon"
+  },
+  "method": {
+    "eyebrow": "04 — Process",
+    "title": "Five clear steps, no surprises.",
+    "intro": "You always know where your project stands and what you get at each step.",
+    "get": "You get:",
+    "s1": {
+      "t": "Brief",
+      "d": "We talk about your business, goals and content. I send you a clear quote.",
+      "g": "a detailed quote"
+    },
+    "s2": {
+      "t": "Mockup",
+      "d": "I design your pages for desktop and mobile. You approve them before any code is written.",
+      "g": "a mockup to approve"
+    },
+    "s3": {
+      "t": "Development",
+      "d": "I build the site and its admin panel, which you test on a preview link.",
+      "g": "a test link"
+    },
+    "s4": {
+      "t": "Launch",
+      "d": "Domain, hosting, HTTPS: I publish the site and show you how to manage it.",
+      "g": "your live website"
+    },
+    "s5": {
+      "t": "Follow-up",
+      "d": "I stay available for fixes, new features and updates.",
+      "g": "someone who answers"
+    }
+  },
+  "about": {
+    "eyebrow": "05 — About",
+    "title": "Future cybersecurity engineer, web developer every day.",
+    "intro": "Security isn’t an add-on at the end: I build it into every site from the first mockup.",
+    "i1": {
+      "meta": "Ongoing · 4th year",
+      "role": "Computer engineering degree, cybersecurity track."
+    },
+    "i2": {
+      "role": "President of the cybersecurity club: workshops, CTFs and the club platform."
+    },
+    "i3": {
+      "meta": "International forum",
+      "role": "Webmaster of the WordPress site and student team lead for the 2026 Forum."
+    },
+    "cvTitle": "Download my résumé",
+    "termCaption": "Mehdi’s skills shown as a terminal",
+    "whoami": "Mehdi Amamou — cybersecurity engineering student and freelance web developer",
+    "catCmd": "cat skills.txt",
+    "langCmd": "languages --list",
+    "skills": [
+      {
+        "k": "front",
+        "v": "Next.js · React · Tailwind CSS · HTML / CSS / JS"
+      },
+      {
+        "k": "back",
+        "v": "Symfony · Node.js · Express"
+      },
+      {
+        "k": "admin",
+        "v": "EasyAdmin · AdminJS · WordPress"
+      },
+      {
+        "k": "data",
+        "v": "MariaDB · Prisma · SQL"
+      },
+      {
+        "k": "deploy",
+        "v": "Linux VPS · Vercel · Git / GitHub"
+      },
+      {
+        "k": "security",
+        "v": "Web security · CTF · Linux"
+      }
+    ],
+    "langsOut": "Français · English · العربية",
+    "termReplay": "Replay the terminal animation"
+  },
+  "testi": {
+    "eyebrow": "06 — Testimonials",
+    "title": "What clients say.",
+    "intro": "Real reviews only, published with each client’s consent.",
+    "tag": "Review"
+  },
+  "contact": {
+    "eyebrow": "07 — Contact",
+    "title": "Let’s talk about your website.",
+    "sub": "Tell me about your project in a few lines: I’ll reply within 24 hours.",
+    "badge": "Reply within 24 h",
+    "emailLbl": "Email",
+    "langs": "I reply in French, English and Arabic.",
+    "formTitle": "Your request",
+    "formSub": "A few details to prepare your quote.",
+    "name": "Name",
+    "namePh": "Your name",
+    "email": "Email",
+    "emailPh": "you@example.com",
+    "project": "Your project",
+    "projectPh": "E.g. a showcase site for my shop, with a product catalog…",
+    "budget": "Estimated budget",
+    "budgets": [
+      "[Moins de X DT]",
+      "[X – Y DT]",
+      "[Plus de Y DT]",
+      "Not sure yet"
+    ],
+    "submit": "Send my request",
+    "privacy": "Your details are only used to reply to you.",
+    "errName": "Please enter your name.",
+    "errEmail": "This email address looks incomplete.",
+    "errProject": "Describe your project in a sentence or two.",
+    "errOne": " field to fix",
+    "errMany": " fields to fix",
+    "sentTitle": "Message sent!",
+    "sentA": "Thanks ",
+    "sentB": ", I’ll reply within 24 hours at ",
+    "recap": "Your request",
+    "sentWa": "Message on WhatsApp",
+    "sentNew": "New message",
+    "errRate": "Too many messages in a short time. Try again in a few minutes or message me on WhatsApp.",
+    "errSend": "Sending failed. Try again or message me on WhatsApp."
+  },
+  "footer": {
+    "tagline": "Freelance web developer. Showcase sites, catalogs and custom platforms, delivered with their own admin panel.",
+    "nav": "Navigation",
+    "contact": "Contact",
+    "lang": "Language",
+    "made": "Freelance web developer · Tunisia",
+    "top": "Back to top"
+  },
+  "modal": {
+    "need": "The need",
+    "did": "What I did",
+    "result": "Result",
+    "client": "Client",
+    "role": "Role",
+    "year": "Year",
+    "yearVal": "[à préciser]",
+    "link": "Link",
+    "close": "Close",
+    "prev": "Previous",
+    "next": "Next project",
+    "gallery": "Screenshots",
+    "galleryHint": "Tap a screenshot to enlarge",
+    "galleryEmpty": "[captures à fournir]",
+    "shotAlt": "{name}, screenshot {n} of {total}",
+    "zoom": "Enlarge screenshot",
+    "zoomClose": "Close enlarged view",
+    "shotPrev": "Previous screenshot",
+    "shotNext": "Next screenshot",
+    "linkVal": "[à fournir]"
+  },
+  "meta": {
+    "title": "Mehdi Amamou · Freelance web developer",
+    "description": "Showcase sites, catalogs with quote requests and custom platforms, with admin panel, hosting and launch included. Freelance web developer based in Tunisia.",
+    "ogAlt": "Mehdi Amamou, freelance web developer: I build websites that bring in clients.",
+    "jobTitle": "Freelance web developer"
+  },
+  "notFound": {
+    "title": "Page not found.",
+    "back": "Back to home"
+  },
+  "newTab": "opens in a new tab",
+  "whatsappText": "Hello Mehdi, I'd like a quote for a website"
+}

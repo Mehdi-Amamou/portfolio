@@ -1,0 +1,36 @@
+{
+  "name": "portfolio-mehdi-amamou",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/prepare-assets.mjs && next dev",
+    "build": "node scripts/prepare-assets.mjs && next build && node scripts/prepare-standalone.mjs",
+    "start": "HOSTNAME=localhost node .next/standalone/server.js",
+    "lint": "eslint",
+    "build:sans-image": "node scripts/prepare-assets.mjs && OG_IMAGE=sans next build && node scripts/prepare-standalone.mjs",
+    "test": "playwright test"
+  },
+  "dependencies": {
+    "gsap": "^3.15.1",
+    "motion": "^14.10.1",
+    "next": "16.4.5",
+    "next-intl": "^4.14.9",
+    "nodemailer": "^10.3.1",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "sharp": "^0.35.5",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.14.0",
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^20",
+    "@types/nodemailer": "^8.0.2",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.5",
+    "lighthouse": "^13.6.0",
+    "typescript": "^5"
+  }
+}
